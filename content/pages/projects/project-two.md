@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Beleefpark (Zwembad) Dwingeloo
 colors: colors-a
-date: '2024-09-20'
+date: '2024-09-19'
 client: Beleefpark Dwingeloo
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
