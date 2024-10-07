@@ -227,7 +227,7 @@ sections:
         url: >-
           https://www.dutchdroneacademy.com/eu-vliegbewijzen/eu-vliegbewijs-basis-a1-a3/
       - type: Label
-        label: React
+        label: Editing
       - type: Label
         label: Microsoft Office
       - type: Label
