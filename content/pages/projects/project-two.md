@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-09-19'
 client: Beleefpark Dwingeloo
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  ik heb verschillende foto's en video's van het beleefpark gemaakt op
+  verschillende dagen, hier heb ik ook een aftermovie van gemaakt
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
