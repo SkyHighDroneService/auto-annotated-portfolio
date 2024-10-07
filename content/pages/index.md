@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Welkom bij sky-high drone services Dwingeloo
-    subtitle: W
+    subtitle: Uw partner in drone technologie
     styles:
       self:
         height: auto
