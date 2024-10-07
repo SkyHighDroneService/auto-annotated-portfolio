@@ -7,7 +7,7 @@ description: Foto's en een after-movie geschoten en geëdit
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
+  altText: '-'
   caption: ''
   elementId: ''
 media:
