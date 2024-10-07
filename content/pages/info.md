@@ -13,15 +13,37 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## **Sil Klaassen**
+
+
+      Hallo, ik ben Sil, de oprichter van Sky High, jouw specialist in
+      drone-services! Al van jongs af aan ben ik gefascineerd door technologie
+      en het vastleggen van de wereld vanuit nieuwe, unieke hoeken. Deze passie
+      heeft me ertoe gebracht mijn eigen drone-bedrijf te starten, waarmee ik
+      bedrijven en particulieren help met alles van luchtfotografie tot
+      technische inspecties.
+
+
+      In mijn vrije tijd ben ik graag bezig nieuwe dingen te leren, Naast
+      drone's heb ik ook een grote interesse in Koken. Klantgerichtheid en oog
+      voor detail zijn voor mij belangrijk, en ik streef ernaar om altijd de
+      hoogste kwaliteit te leveren.
+
+
+      Of het nu gaat om een adembenemende video voor een evenement of het veilig
+      inspecteren van moeilijk bereikbare plekken, ik sta klaar om jouw project
+      met precisie en creativiteit te ondersteunen.
+
+
+      Neem gerust contact op voor meer informatie of om een afspraak te maken!
+
+
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
       altText: Hero image
+      url: /images/file (6).png
     styles:
       self:
         height: auto
@@ -60,26 +82,20 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Samengewerkt met de volgende bedrijven:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/file (5).png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/beleefpark-dwingeloo-logo.985e2e71 (1).svg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -189,7 +205,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Socials:'
   - type: DividerSection
     styles:
       self:
@@ -207,21 +223,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Piloot onbemande luchtvaartuigen (A1/A3)
+        url: >-
+          https://www.dutchdroneacademy.com/eu-vliegbewijzen/eu-vliegbewijs-basis-a1-a3/
       - type: Label
-        label: React
+        label: Editing
       - type: Label
-        label: Microsoft Office
+        label: Klantgericht
       - type: Label
-        label: Next.js
+        label: Recreational UAS safety test (TRUST)
       - type: Label
-        label: Netlify
+        label: Fotografie
       - type: Label
-        label: Pancakes
+        label: Inspecties
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: Consult
   - type: DividerSection
     styles:
       self:
@@ -239,7 +255,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [sklaassen.skyhigh@outlook.com](mailto:thisismyemail.@myemail.me)
+
+      +31 6 51 43 22 19
   - type: DividerSection
     styles:
       self:
@@ -377,12 +395,12 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Vertel over je project
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Nieuwsbrief
           isRequired: false
           width: full
           type: CheckboxFormControl
