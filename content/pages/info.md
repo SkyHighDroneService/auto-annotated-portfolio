@@ -233,7 +233,7 @@ sections:
       - type: Label
         label: Recreational UAS safety test (TRUST)
       - type: Label
-        label: Netlify
+        label: Fotografie
       - type: Label
         label: Pancakes
       - type: Label
