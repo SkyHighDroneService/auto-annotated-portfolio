@@ -231,7 +231,7 @@ sections:
       - type: Label
         label: Klantgericht
       - type: Label
-        label: TRUST (
+        label: Recreational UAS safety test (TRUST)
       - type: Label
         label: Netlify
       - type: Label
