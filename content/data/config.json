@@ -31,6 +31,14 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/skyhigh_droneservices/",
                 "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/company/sky-high-drone-serviceprovider-vastgoed-drone-lucht-en-fotografie",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
