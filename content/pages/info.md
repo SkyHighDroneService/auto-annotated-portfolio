@@ -63,7 +63,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Remove background project.png
+        url: /images/Untitled design (2).png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
