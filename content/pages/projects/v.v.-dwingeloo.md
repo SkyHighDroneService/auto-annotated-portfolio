@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Jatin Jeugdtoernooi
 date: '2024-06-06'
 client: V.V. Dwingeloo
-description: Foto's en een after-movie geschoten en geëdit
+description: >-
+  Foto's en een after-movie geschoten en geëdit, ik heb 2 keer een half uur
+  geschoten. 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
