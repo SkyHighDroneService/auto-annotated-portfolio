@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Jatin Jeugdtoernooi
 date: '2024-06-06'
-client: Awesome client
+client: V.V. Dwingeloo
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
