@@ -229,7 +229,7 @@ sections:
       - type: Label
         label: Editing
       - type: Label
-        label: Microsoft Office
+        label: Klantgericht
       - type: Label
         label: Next.js
       - type: Label
