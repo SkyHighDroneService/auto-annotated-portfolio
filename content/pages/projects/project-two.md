@@ -9,7 +9,7 @@ description: >-
   verschillende dagen, hier heb ik ook een aftermovie van gemaakt
 featuredImage:
   type: ImageBlock
-  url: /images/DJI_0039.JPG
+  url: /images/DJI_0041.JPG
   altText: Project thumbnail image
 media:
   type: ImageBlock
