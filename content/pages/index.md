@@ -90,7 +90,6 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
