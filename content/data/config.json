@@ -82,7 +82,7 @@
             "email": "sklaassen.skyhigh@outlook.com",
             "emailAltText": "E-Mail",
             "address": "Noorderpad 4 7991EM Dwingeloo",
-            "addressAltText": "My address"
+            "addressAltText": "Bedrijfslocatie"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
