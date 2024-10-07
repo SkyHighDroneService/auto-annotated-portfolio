@@ -238,8 +238,6 @@ sections:
         label: Inspecties
       - type: Label
         label: Consult
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
