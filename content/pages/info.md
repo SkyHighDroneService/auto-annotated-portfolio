@@ -395,7 +395,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Vertel over je projecty
+          placeholder: Vertel over je project
           isRequired: true
           width: full
           type: TextareaFormControl
