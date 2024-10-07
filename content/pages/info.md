@@ -223,7 +223,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Piloot onbemande luchtvaartuigen (A1/A3)
       - type: Label
         label: React
       - type: Label
