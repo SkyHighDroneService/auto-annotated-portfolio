@@ -67,7 +67,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/beleefpark-dwingeloo-logo.985e2e71 (1).svg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
