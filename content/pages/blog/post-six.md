@@ -2,7 +2,7 @@
 type: PostLayout
 title: DJI mini 3
 colors: colors-a
-date: '2024-05-03'
+date: '2023-12-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
