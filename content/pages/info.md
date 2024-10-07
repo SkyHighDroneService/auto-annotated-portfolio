@@ -235,7 +235,7 @@ sections:
       - type: Label
         label: Fotografie
       - type: Label
-        label: Pancakes
+        label: Inspecties
       - type: Label
         label: C++
       - type: Label
