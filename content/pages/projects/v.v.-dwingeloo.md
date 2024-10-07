@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Jatin Jeugdtoernooi
 date: '2024-06-06'
 client: V.V. Dwingeloo
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Foto's en een after-movie geschoten en geëdit
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
