@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: DJi
+title: DJI mini 3
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
