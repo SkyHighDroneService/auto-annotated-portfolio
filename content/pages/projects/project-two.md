@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Beleefpark (Zwembad) Dwingeloo
+title: Promo video/foto's
 colors: colors-a
 date: '2024-09-19'
 client: Beleefpark Dwingeloo
