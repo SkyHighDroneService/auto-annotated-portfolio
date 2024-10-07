@@ -255,7 +255,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [sklaassen.skyhigh@outlook.com](mailto:thisismyemail.@myemail.me)
+
+      +31 6 51 43 22 19
   - type: DividerSection
     styles:
       self:
