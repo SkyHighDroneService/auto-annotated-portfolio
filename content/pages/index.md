@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Welkom bij sky-high drone services Dwingeloo
+    subtitle: Uw partner in drone technologie
     styles:
       self:
         height: auto
@@ -61,8 +56,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/v.v.-dwingeloo.md
     styles:
       self:
         height: auto
@@ -84,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -136,16 +130,16 @@ sections:
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Voornaam
           hideLabel: true
-          placeholder: First Name
+          placeholder: Voornaam
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Achternaam
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -159,15 +153,10 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Adres
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
