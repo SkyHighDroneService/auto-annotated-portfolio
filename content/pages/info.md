@@ -13,11 +13,33 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## **Sil Klaassen**
+
+
+      Hallo, ik ben Sil, de oprichter van Sky High, jouw specialist in
+      drone-services! Al van jongs af aan ben ik gefascineerd door technologie
+      en het vastleggen van de wereld vanuit nieuwe, unieke hoeken. Deze passie
+      heeft me ertoe gebracht mijn eigen drone-bedrijf te starten, waarmee ik
+      bedrijven en particulieren help met alles van luchtfotografie tot
+      technische inspecties.
+
+
+      In mijn vrije tijd ben ik graag bezig nieuwe dingen te leren, Naast
+      drone's heb ik ook een grote interesse in Koken. Klantgerichtheid en oog
+      voor detail zijn voor mij belangrijk, en ik streef ernaar om altijd de
+      hoogste kwaliteit te leveren.
+
+
+      Of het nu gaat om een adembenemende video voor een evenement of het veilig
+      inspecteren van moeilijk bereikbare plekken, ik sta klaar om jouw project
+      met precisie en creativiteit te ondersteunen.
+
+
+      Neem gerust contact op voor meer informatie of om een afspraak te maken!
+
+
+
     media:
       type: ImageBlock
       altText: Hero image
