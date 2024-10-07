@@ -224,6 +224,8 @@ sections:
     items:
       - type: Label
         label: Piloot onbemande luchtvaartuigen (A1/A3)
+        url: >-
+          https://www.dutchdroneacademy.com/eu-vliegbewijzen/eu-vliegbewijs-basis-a1-a3/
       - type: Label
         label: React
       - type: Label
