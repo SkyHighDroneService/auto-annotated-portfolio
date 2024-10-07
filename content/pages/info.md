@@ -237,7 +237,7 @@ sections:
       - type: Label
         label: Inspecties
       - type: Label
-        label: C++
+        label: Consult
       - type: Label
         label: Swift
   - type: DividerSection
