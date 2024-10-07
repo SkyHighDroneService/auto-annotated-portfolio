@@ -102,6 +102,8 @@ bottomSections:
       text:
         textAlign: left
 ---
+****
+
 **DJI Mini 3: Een Krachtige Tool voor de Professionele Drone Enthousiasteling**
 
 Als ervaren dronepiloot heb ik door de jaren heen met verschillende drones gevlogen, en het is zeldzaam om een model tegen te komen dat zoveel te bieden heeft in zo’n compact pakket. De **DJI Mini 3** is de nieuwste toevoeging aan mijn vloot, en ondanks zijn compacte formaat en lichtgewicht ontwerp, heeft hij bewezen een betrouwbare en veelzijdige tool te zijn voor zowel luchtfotografie als professionele projecten.
