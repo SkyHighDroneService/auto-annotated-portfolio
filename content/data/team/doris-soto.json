@@ -1,10 +1,11 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Sil",
+    "lastName": "Klaassen",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/Untitled design (4).png",
+        "altText": "Sil"
+    },
+    "role": "Owner-Pilot"
 }
