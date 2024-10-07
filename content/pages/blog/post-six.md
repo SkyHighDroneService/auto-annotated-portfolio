@@ -4,7 +4,7 @@ title: DJI MINI 3
 colors: colors-a
 date: '2024-10-07'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Blog over DJI MINI 3
 featuredImage:
   type: ImageBlock
   url: /images/download.jpeg
