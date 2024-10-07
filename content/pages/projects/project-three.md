@@ -7,7 +7,6 @@ client: '-'
 description: '-'
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
   altText: Project image
 ---
 Coming soon
