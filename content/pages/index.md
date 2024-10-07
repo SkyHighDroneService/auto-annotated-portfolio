@@ -132,7 +132,7 @@ sections:
         - name: firstName
           label: Voornaam
           hideLabel: true
-          placeholder: First Name
+          placeholder: Voornaam
           isRequired: true
           width: 1/2
           type: TextFormControl
