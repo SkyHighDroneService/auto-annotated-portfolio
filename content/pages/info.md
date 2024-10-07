@@ -400,7 +400,7 @@ sections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Nieuwsbrief
           isRequired: false
           width: full
           type: CheckboxFormControl
