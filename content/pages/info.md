@@ -231,7 +231,7 @@ sections:
       - type: Label
         label: Klantgericht
       - type: Label
-        label: Next.js
+        label: TRUST (
       - type: Label
         label: Netlify
       - type: Label
