@@ -7,7 +7,9 @@ sections:
     variant: variant-a
     title: Pakketten
     subtitle: Commercieel en particulier
-    text: ''
+    text: |+
+      Pakketten beginnend bij 20,- voor particulieren, en 25,- voor bedrijven.
+
     elementId: ''
     styles:
       self:
