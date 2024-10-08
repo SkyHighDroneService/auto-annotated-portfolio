@@ -5,7 +5,8 @@ date: '2024-08-10'
 client: Sil Klaassen - Persoonlijk Project
 description: >-
   Gemaakt om ervaring op te doen in verschillende sectoren, zo had deze video
-  gemaakt kunnen worden voor een surfschool of de lokale overheid.
+  gemaakt kunnen worden voor een surfschool of de lokale overheid. Gallery
+  beneden.
 featuredImage:
   type: ImageBlock
   url: /images/Untitled design (6).png
