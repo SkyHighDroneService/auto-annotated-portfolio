@@ -30,7 +30,7 @@ backgroundImage:
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Pacific Ocean
     images:
       - type: ImageBlock
         url: /images/DJI_0002.JPG
