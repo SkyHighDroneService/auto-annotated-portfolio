@@ -33,10 +33,24 @@ sections:
       - type: FeaturedItem
         title: Drone diensten voor bedrijven A
         subtitle: '25,-'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Dit pakket is perfect voor bedrijven die graag een impressie willen
+          van drone diensten, of alleen wat foto's nodig hebben:
+
+
+          *   +- 10 foto's
+
+
+          wij komen naar uw locatie met alle materialen en voorbereidingen, het
+          enige wat u door moet geven zijn uw wensen. 
+
+
+          Ongeveer 30 minuten
+
+
+
+
+
         featuredImage:
           type: ImageBlock
           url: >-
