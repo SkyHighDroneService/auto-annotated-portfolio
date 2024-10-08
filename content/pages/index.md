@@ -86,31 +86,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Afspraak maken/inplannen
-    text: >
-      Directe afspraken kunnen gemaakt worden via:
-      vev.co/sky-high-drone-serviceprovider-nl voor verdere vragen kunt u altijd
-      contact opnemen! <sklaassen.skyhigh@outlook.com>
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
