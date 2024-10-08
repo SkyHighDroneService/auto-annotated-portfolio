@@ -45,7 +45,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: Afspraak maken/inplannen
     text: >
       Directe afspraken kunnen gemaakt worden via:
       [vev.co/sky-high-drone-serviceprovider-nl
