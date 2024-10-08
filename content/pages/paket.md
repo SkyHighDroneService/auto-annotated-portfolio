@@ -32,7 +32,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Drone diensten voor bedrijven A
-        subtitle: ''
+        subtitle: '25,-'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
