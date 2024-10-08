@@ -14,10 +14,10 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Project image
   caption: Caption of the image
   elementId: ''
+  url: /images/DJI_0853.JPG
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
