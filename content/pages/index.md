@@ -42,14 +42,31 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Afspraak maken/inplannen
+  - type: CtaSection
+    title: Laten we het doen!
     text: >
-      Directe afspraken kunnen gemaakt worden via:
-      vev.co/sky-high-drone-serviceprovider-nl voor verdere vragen kunt u altijd
-      contact opnemen! <sklaassen.skyhigh@outlook.com>
+      Je kunt meteen een afspraak inplannen of contact opnemen voor meer info!
+      Sklaassen.skyhigh\@outlook.com
+    actions:
+      - type: Button
+        label: Maak een afspraak
+        altText: ''
+        url: vev.co/sky-high-drone-serviceprovider-nl
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
     elementId: ''
     styles:
       self:
@@ -60,13 +77,15 @@ sections:
           - pb-28
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
