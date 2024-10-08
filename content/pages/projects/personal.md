@@ -4,8 +4,8 @@ title: Pacific Ocean Movie
 date: '2024-08-10'
 client: Sil Klaassen - Persoonlijk Project
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Gemaakt om ervaring op te doen in verschillende sectoren, zo had deze video
+  gemaakt kunnen worden voor een surfschool of de lokale overheid.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
