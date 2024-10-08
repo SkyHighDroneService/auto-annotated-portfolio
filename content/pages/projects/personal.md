@@ -8,7 +8,7 @@ description: >-
   gemaakt kunnen worden voor een surfschool of de lokale overheid.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Untitled design (6).png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
