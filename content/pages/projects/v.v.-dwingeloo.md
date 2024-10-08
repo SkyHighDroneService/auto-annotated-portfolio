@@ -8,7 +8,7 @@ description: >-
   geschoten. 
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/DJI_0853.JPG
   altText: '-'
   caption: ''
   elementId: ''
