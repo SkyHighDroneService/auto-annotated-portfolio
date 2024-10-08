@@ -48,9 +48,8 @@ sections:
     title: Afspraak maken/inplannen
     text: >
       Directe afspraken kunnen gemaakt worden via:
-      [vev.co/sky-high-drone-serviceprovider-nl
-      ](vev.co/sky-high-drone-serviceprovider-nl)voor verdere vragen kunt u
-      altijd contact opnemen! sklaassen.skyhigh\@outlook.com
+      vev.co/sky-high-drone-serviceprovider-nl voor verdere vragen kunt u altijd
+      contact opnemen! <sklaassen.skyhigh@outlook.com>
     elementId: ''
     styles:
       self:
