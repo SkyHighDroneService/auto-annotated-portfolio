@@ -65,7 +65,19 @@ sections:
       - type: FeaturedItem
         title: Drone diensten voor bedrijven B
         subtitle: '40,-'
-        text: ''
+        text: >
+          Drone pakket perfect voor bedrijven die meer willen! alles is
+          natuurlijk naar uw wens. 
+
+
+          *   +- 10 foto's
+
+
+          *   +- 5 video's
+
+
+          wij komen naar uw locatie met alle voorbereidingen en materialen,
+          extra's zijn natuurlijk altijd mogelijk!
         featuredImage:
           type: ImageBlock
           url: >-
