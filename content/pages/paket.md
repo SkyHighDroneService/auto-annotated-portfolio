@@ -80,8 +80,7 @@ sections:
           extra's zijn natuurlijk altijd mogelijk!
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/DJI_0094.JPG
           altText: Item image
           caption: Caption of the image
           elementId: ''
