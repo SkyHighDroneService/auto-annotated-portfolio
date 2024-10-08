@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Promo video/foto's
+title: Beleefpark Promo foto's en video's
 colors: colors-a
 date: '2024-09-19'
 client: Beleefpark Dwingeloo
