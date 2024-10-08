@@ -49,7 +49,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Maak een afspraak
         altText: ''
         url: vev.co/sky-high-drone-serviceprovider-nl
         showIcon: true
