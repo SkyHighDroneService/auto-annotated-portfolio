@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Pacific Ocean Movie
 date: '2024-08-10'
-client: Awesome client
+client: Sil Klaassen - Persoonlijk Project
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
