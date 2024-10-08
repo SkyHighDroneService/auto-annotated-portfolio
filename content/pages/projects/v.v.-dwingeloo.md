@@ -14,7 +14,6 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/DJI_0094.JPG
   altText: Project image
   caption: Caption of the image
   elementId: ''
