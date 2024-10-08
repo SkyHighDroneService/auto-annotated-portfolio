@@ -44,9 +44,9 @@ sections:
     actions: []
   - type: CtaSection
     title: Laten we het doen!
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Je kunt meteen een afspraak inplannen of contact opnemen voor meer info!
+      Sklaassen.skyhigh\@outlook.com
     actions:
       - type: Button
         label: Maak een afspraak
