@@ -51,7 +51,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: ''
+        url: vev.co/sky-high-drone-serviceprovider-nl
         showIcon: true
         icon: arrowRight
         iconPosition: right
