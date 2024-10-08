@@ -31,7 +31,7 @@ sections:
     title: Commercieel
     items:
       - type: FeaturedItem
-        title: Pakket A
+        title: Drone diensten voor bedrijven A
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
