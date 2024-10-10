@@ -48,15 +48,6 @@ sections:
       Je kunt meteen een afspraak inplannen of contact opnemen voor meer info!
       Sklaassen.skyhigh\@outlook.com
     actions:
-      - type: Button
-        label: Maak een afspraak
-        altText: ''
-        url: vev.co/sky-high-drone-serviceprovider-nl
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
