@@ -193,15 +193,17 @@ sections:
       - type: FeaturedItem
         title: Evenement Opnames (2 uur)
         subtitle: '80,-'
-        text: |+
-          een uitgebreider pakket voor opnames van uw huis, vast- of landgoed.
+        text: >
+          Opnames van uw evenement, bijvoorbeeld een bruiloft, verjaardag of
+          festival.
 
-          *   -+ 10 foto's
 
-          *   -+ 5 video's
+          -Zoveel mogelijk foto's en video's
 
-          *   (verkoop) video van uw object -+ 2 minuten
+          -Aftermovie
 
+
+          Voor info kunt u altijd contact opnemen!
         featuredImage:
           type: ImageBlock
           url: >-
