@@ -71,7 +71,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "sklaassen.skyhigh@outlook.com",
                 "altText": ""
             },
             {
@@ -79,12 +79,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
