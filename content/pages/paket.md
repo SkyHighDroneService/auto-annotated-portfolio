@@ -202,8 +202,6 @@ sections:
 
           *   (verkoop) video van uw object -+ 2 minuten
 
-          +- 2 uur
-
         featuredImage:
           type: ImageBlock
           url: >-
