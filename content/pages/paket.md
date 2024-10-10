@@ -31,7 +31,7 @@ sections:
     title: Commercieel
     items:
       - type: FeaturedItem
-        title: Drone diensten voor bedrijven A
+        title: Drone diensten voor bedrijven A (
         subtitle: '25,-'
         text: >+
           Dit pakket is perfect voor bedrijven die graag een impressie willen
