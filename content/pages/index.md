@@ -92,6 +92,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/v.v.-dwingeloo.md
+      - content/pages/projects/personal.md
     styles:
       self:
         height: auto
