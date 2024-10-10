@@ -90,29 +90,30 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: DRONE DIENSTEN VOOR BEDRIJVEN C
+        subtitle: '60,-'
+        text: >
+          Drone pakket voor bedrijven:
+
+
+          *   +- 10 foto's
+
+
+          *   +- 5 video's
+
+
+          *   1 geëdite promo video
+
+
+          Wij komen naar uw locatie met al het materiaal en voorbereidingen!
+          extra's zijn natuurlijk altijd mogelijk.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Untitled design (6).png
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
