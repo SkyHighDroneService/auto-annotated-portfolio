@@ -250,6 +250,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: Voor individuen
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
