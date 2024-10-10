@@ -63,7 +63,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Drone diensten voor bedrijven B (
+        title: Drone diensten voor bedrijven B (45 minuten
         subtitle: '40,-'
         text: >
           Drone pakket perfect voor bedrijven die meer willen! alles is
