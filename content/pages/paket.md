@@ -191,7 +191,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Evenement Opnames
+        title: Evenement Opnames (2 uur)
         subtitle: '80,-'
         text: |+
           een uitgebreider pakket voor opnames van uw huis, vast- of landgoed.
