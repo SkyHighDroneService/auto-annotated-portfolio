@@ -145,7 +145,7 @@ sections:
     title: Particulier
     items:
       - type: FeaturedItem
-        title: Basis Pakket particulier (
+        title: Basis Pakket particulier (30 minuten)
         subtitle: '20,-'
         text: |+
           Voor bijvoorbeeld opnames van uw huis of vastgoed:
