@@ -46,21 +46,18 @@ sections:
     title: Laten we het doen!
     text: >
       Je kunt meteen een afspraak inplannen of contact opnemen voor meer info!
-      Sklaassen.skyhigh\@outlook.com
+      <Sklaassen.skyhigh@outlook.com>
+
+
+      Meteen een afspraak inplannen:
+
+
+      [vev.co/sky-high-drone-serviceprovider-nl](https://vev.co/sky-high-drone-serviceprovider-nl)
     actions:
-      - type: Button
-        label: Maak een afspraak
-        altText: ''
-        url: vev.co/sky-high-drone-serviceprovider-nl
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
-        label: Learn more
+        label: Pakketten
         altText: ''
-        url: /
+        url: /paket
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -101,6 +98,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/v.v.-dwingeloo.md
+      - content/pages/projects/personal.md
     styles:
       self:
         height: auto
