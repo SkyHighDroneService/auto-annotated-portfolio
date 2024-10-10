@@ -92,32 +92,17 @@ sections:
       - type: FeaturedItem
         title: DRONE DIENSTEN VOOR BEDRIJVEN C
         subtitle: '60,-'
-        text: >
+        text: |+
           Drone pakket voor bedrijven:
-
 
           *   +- 10 foto's
 
-
           *   +- 5 video's
-
 
           *   1 geëdite promo video
 
+          Wij komen naar uw locatie met al het materiaal en voorbereidingen!
 
-          deze foto's, video's en promo video worden gemaakt naar uw voorkeur,
-          vanuit welke hoek(en) en hoogtes u wenst.
-
-
-          wij komen op de overlegde tijd(en\*) naar uw locatie met ons
-          materiaal, er zijn geen bijkomende kosten\*\*
-
-
-          \*wij kunnen er voor kiezen twee sessies (zelfde prijs) in te lassen
-          i.v.b met weer of daglicht
-
-
-          \*\*uitgezonderd extra's
         featuredImage:
           type: ImageBlock
           url: >-
