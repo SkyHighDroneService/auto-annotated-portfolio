@@ -147,10 +147,13 @@ sections:
       - type: FeaturedItem
         title: Basis Pakket particulier
         subtitle: '20,-'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          Voor bijvoorbeeld opnames van uw huis of vastgoed:
+
+          *   -+ 5 foto's
+
+          *   -+ 5 video's
+
         featuredImage:
           type: ImageBlock
           url: >-
