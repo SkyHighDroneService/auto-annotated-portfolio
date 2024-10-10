@@ -44,9 +44,13 @@ sections:
     actions: []
   - type: CtaSection
     title: Laten we het doen!
-    text: >
+    text: >+
       Je kunt meteen een afspraak inplannen of contact opnemen voor meer info!
-      Sklaassen.skyhigh\@outlook.com
+      <Sklaassen.skyhigh@outlook.com>
+
+
+      [vev.co/sky-high-drone-serviceprovider-nl](https://vev.co/sky-high-drone-serviceprovider-nl)
+
     actions:
       - type: Link
         label: Pakketten
