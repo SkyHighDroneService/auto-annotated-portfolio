@@ -49,7 +49,7 @@ sections:
       Sklaassen.skyhigh\@outlook.com
     actions:
       - type: Link
-        label: Learn more
+        label: Pakketten
         altText: ''
         url: /paket
         showIcon: true
