@@ -109,8 +109,7 @@ sections:
           extra's zijn natuurlijk altijd mogelijk.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Untitled design (6).png
           altText: Item image
           caption: Caption of the image
           elementId: ''
