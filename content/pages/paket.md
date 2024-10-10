@@ -145,7 +145,7 @@ sections:
     title: Particulier
     items:
       - type: FeaturedItem
-        title: ''
+        title: Basis Pakket particulier
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
