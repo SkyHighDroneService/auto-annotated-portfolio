@@ -91,7 +91,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: DRONE DIENSTEN VOOR BEDRIJVEN C
-        subtitle: ''
+        subtitle: '60,-'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
