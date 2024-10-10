@@ -31,7 +31,7 @@ sections:
     title: Commercieel
     items:
       - type: FeaturedItem
-        title: Drone diensten voor bedrijven A
+        title: Drone diensten voor bedrijven A (30 minuten)
         subtitle: '25,-'
         text: >+
           Dit pakket is perfect voor bedrijven die graag een impressie willen
@@ -63,7 +63,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Drone diensten voor bedrijven B
+        title: Drone diensten voor bedrijven B (45 minuten)
         subtitle: '40,-'
         text: >
           Drone pakket perfect voor bedrijven die meer willen! alles is
@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: DRONE DIENSTEN VOOR BEDRIJVEN C
+        title: DRONE DIENSTEN VOOR BEDRIJVEN C (1 uur)
         subtitle: '60,-'
         text: >
           Drone pakket voor bedrijven:
@@ -141,6 +141,104 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Voor bedrijven
+  - type: FeaturedItemsSection
+    title: Particulier
+    items:
+      - type: FeaturedItem
+        title: Basis Pakket particulier (30 minuten)
+        subtitle: '20,-'
+        text: |+
+          Voor bijvoorbeeld opnames van uw huis of vastgoed:
+
+          *   -+ 5 foto's
+
+          *   -+ 5 video's
+
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Premium Pakket (45 minuten)
+        subtitle: '40,-'
+        text: |+
+          een uitgebreider pakket voor opnames van uw huis, vast- of landgoed.
+
+          *   -+ 10 foto's
+
+          *   -+ 5 video's
+
+          *   (verkoop) video van uw object -+ 2 minuten
+
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Evenement Opnames (2 uur)
+        subtitle: '80,-'
+        text: >
+          Opnames van uw evenement, bijvoorbeeld een bruiloft, verjaardag of
+          festival.
+
+
+          -Zoveel mogelijk foto's en video's
+
+          -Aftermovie
+
+
+          Voor info kunt u altijd contact opnemen!
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    subtitle: Voor individuen
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
