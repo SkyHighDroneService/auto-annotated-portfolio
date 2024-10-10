@@ -142,7 +142,7 @@ sections:
         justifyContent: flex-start
     subtitle: Voor bedrijven
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Particulier
     items:
       - type: FeaturedItem
         title: I'm Fast
