@@ -167,7 +167,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Premium Pakket '
+        title: Premium Pakket (45 minuten)
         subtitle: '40,-'
         text: |+
           een uitgebreider pakket voor opnames van uw huis, vast- of landgoed.
