@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: DRONE DIENSTEN VOOR BEDRIJVEN C
+        title: DRONE DIENSTEN VOOR BEDRIJVEN C (1 uur)
         subtitle: '60,-'
         text: >
           Drone pakket voor bedrijven:
