@@ -193,10 +193,17 @@ sections:
       - type: FeaturedItem
         title: Evenement Opnames
         subtitle: '80,-'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          een uitgebreider pakket voor opnames van uw huis, vast- of landgoed.
+
+          *   -+ 10 foto's
+
+          *   -+ 5 video's
+
+          *   (verkoop) video van uw object -+ 2 minuten
+
+          +- 2 uur
+
         featuredImage:
           type: ImageBlock
           url: >-
