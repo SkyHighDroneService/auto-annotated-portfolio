@@ -204,8 +204,7 @@ sections:
           Voor info kunt u altijd contact opnemen!
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/DJI_0041.JPG
           altText: Item image
           caption: Caption of the image
           elementId: ''
