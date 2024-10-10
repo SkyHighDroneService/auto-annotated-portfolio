@@ -51,7 +51,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: /pakketten
         showIcon: true
         icon: arrowRight
         iconPosition: right
