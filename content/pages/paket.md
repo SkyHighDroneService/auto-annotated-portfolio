@@ -146,7 +146,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Basis Pakket particulier
-        subtitle: ''
+        subtitle: '20,-'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
